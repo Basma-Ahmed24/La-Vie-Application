@@ -1,4 +1,6 @@
 # La-Vie-Application
+# La Vie is a flutter mobile application which enable users to know ,buy plants and it's tools and how to grow it and so on
+# I used for this app 
 ![Screenshot_20220817_013647](https://user-images.githubusercontent.com/105160104/187242876-d9aff930-ccbc-4bd9-9808-a1d422f15458.png)
 ![Screenshot 2022-08-29 174033](https://user-images.githubusercontent.com/105160104/187243076-feb61326-8a05-44e1-b23d-629c31edea11.png)
 ![Screenshot_20220817_013922](https://user-images.githubusercontent.com/105160104/187243182-88dc4c32-e741-4071-b0fc-e58db3576de4.png)
